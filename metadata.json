@@ -1,0 +1,59 @@
+{
+  "siteId": "storage-gadget-testing",
+  "generatedAt": "2026-06-04T11:36:07.957996",
+  "categories": [
+    "beginner-storage-gadget-testing",
+    "advanced-storage-gadget-testing",
+    "tips-storage-gadget-testing",
+    "history-storage-gadget-testing",
+    "trending-storage-gadget-testing",
+    "tutorials-storage-gadget-testing"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-storage-gadget-testing",
+      "category_name": "Beginner Storage Gadget Testing"
+    },
+    {
+      "category_slug": "advanced-storage-gadget-testing",
+      "category_name": "Advanced Storage Gadget Testing"
+    },
+    {
+      "category_slug": "tips-storage-gadget-testing",
+      "category_name": "Storage Gadget Testing Tips"
+    },
+    {
+      "category_slug": "history-storage-gadget-testing",
+      "category_name": "Storage Gadget Testing History"
+    },
+    {
+      "category_slug": "trending-storage-gadget-testing",
+      "category_name": "Trending Storage Gadget Testing"
+    },
+    {
+      "category_slug": "tutorials-storage-gadget-testing",
+      "category_name": "Storage Gadget Testing Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "storage-gadget-testing",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Storage Gadget Testing Central",
+    "articles_per_row": 3
+  }
+}
